@@ -15,6 +15,7 @@ namespace ConsoleApp1
             {
                 Console.Write(array[i]);
             }
+
             for (int i = 0; i < shiftNumber; ++i)
             {
                 int bufferNumber = array[0];
